@@ -1,0 +1,7 @@
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.FormStudenti.resources
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.FormUnosNovogStudenta.resources
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.Properties.Resources.resources
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.csproj.GenerateResource.cache
+C:\Users\LaPeM\source\repos\radSDvijeForme\radSDvijeForme\obj\Debug\radSDvijeForme.csproj.CoreCompileInputs.cache
